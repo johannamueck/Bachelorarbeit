@@ -1,0 +1,336 @@
+English Term;spanish term
+Abroad;En el extranjero
+Accommodation;Acomodo
+Accredited Representative;Representante Acreditado
+Acquired citizenship;Ciudadanía Derivada
+Adjourn;propostar
+Adjournment;aplazamiento
+Adjudicate;Adjudicar
+Adjudication;Adjudicación
+Adjustment of Status;Ajuste de Estatus
+Adjustment to immigrant status;Ajuste al Estatus de Inmigrante
+Admissibility;Admisibilidad
+Admission;Admisión
+Admission Number;Número de Admisión
+Adopted decision;Decisión Adoptada
+Advance Parole;Permiso Adelantado
+Affidavit;Afidávit
+Affidavit of Support;Declaración de Patrocinio Económico
+Agricultural worker;Trabajador agrícola
+Alien;Extranjero
+Alien Number;Número de Extranjero
+Alien Registration Number;Número de Registro de Extranjero
+Alternatives to detention;Alternativas a la detención
+Amerasian;Amerasiático
+Amerasian Act;Ley Amerasiática
+A-Number;Número A
+applicant;solicitante
+Application Support Center;Centro de Asistencia en Solicitudes
+Apprehension;Aprehensión
+Arranged marriage;Matrimonio Arreglado
+arrest;Detención
+arrival;llegada
+Arrival-Departure Record;Registro de Entrada / Salida
+Asylee;Asilado
+asylum;asilo
+Asylum seeker;Solicitante de asilo
+Attorney of record;Abogado en registro
+Au Pair Program;Programa de Cuidado de Niños
+Authorized provider;Proveedor Autorizado
+Beneficiary;Beneficiario
+benefit;beneficio
+Bilateral labour migration agreements;Acuerdos bilaterales de migración laboral
+Biometrics;Biometría
+Blanket waiver;Exención general
+Board of Immigration Appeals;Junta de Apelaciones de Inmigración
+Bond;Fianza
+Bond proceedings;Procedimientos de fianza
+border control;control frontera
+Border crosser;Cruce fronterizo
+Border governance;Gobernanza de fronteras
+Border management;Gestión de fronteras
+Borders;Fronteras
+Burden of proof;Responsabilidad de prueba
+business;negocio
+Business nonimmigrant;No inmigrante por negocios
+Cap-gap extension;Extensión para Cubierta de Brecha
+Carrier documentation;Documentación de Transporte
+Casual domestic employment;Empleo doméstico casual
+Certificate of Citizenship;Certificado de Ciudadanía
+Certificate of Naturalization;Certificado de Naturalización
+Certificate of Translation;Certificado de Traducción
+Child;Hijo
+citizenship;ciudadania
+Civil surgeon;Médico civil
+Climate migration;Migración por motivos climáticos
+Code of Federal Regulations;Código de Regulaciones Federales
+Collective expulsion;Expulsión colectiva
+compensation;compensacion
+Conditional resident;Residente condicional
+consulate;consulado
+Continuing approval;Aprobación continua
+Continuing denial;Denegación continua
+Continuous residence;Residencia continua
+contract;contrato
+Country of;País de
+Country of destination;País de destino
+Country of origin;País de origen
+Country of transit;País de tránsito
+Crewman;Tripulante
+Cuban;Entrante cubano/haitiano
+Curricular practical training;Capacitación Práctica Curricular
+customs;aduana
+Cut-off date;Fecha de Corte
+Defensive asylum application;Solicitud de Asilo Defensivo
+Deferred action;Acción Diferida
+Deferred Enforced Departure;Salida Forzosa Diferida
+Denial;Denegación
+Department of Homeland Security;Departamento de Seguridad Nacional
+Department of Justice;Departamento de Justicia
+Department of Labor;Departamento del Trabajo
+Deportable alien;Extranjero Removible
+Deportation;deportacion
+Derivative citizenship;Ciudadanía derivada
+Derivatives;Derivados
+Designated school official;Oficial Escolar Designado
+diaspora;diaspora
+Employees with Disabilities;Empleados con Discapacidades
+Disaster relief;Ayuda por Desastre
+Discretion;Discreción
+discriminate;discriminar
+Discrimination;Discriminación
+Displacement;Desplazamiento
+Diversity;Diversidad
+Docket control;Control de expedientes
+Domestic worker;Empleado doméstico
+Duration of status;Duración de Estatus
+earning;ganancia
+EB-5 Immigrant Investor;EB-5 Inversionista Inmigrante
+economy;economia
+embassy;embajada
+emigrant;emigrante
+emigrate;emigrar
+Emigration;emigracion
+Employee;Empleado
+Employer;empleador
+Employer sanctions;Sanciones al empleador
+Employment;empleo
+Employment Authorization Document;Documento de Autorización de Empleo
+Environmental migrant;Migrante por motivos ambientales
+Equal Employment Opportunity Commission;Comisión para la Igualdad de Oportunidades en el Empleo
+Exchange visitor;Visitante de intercambio
+Executive action;Acción Ejecutiva
+Expulsion;Expulsión
+F-1 Nonimmigrant Student;Estudiante No Inmigrante F-1
+Family reunification;Reunificación familiar
+Family unity;Unidad familiar
+Female genital mutilation;Corte Genital Femenino
+Field office;Oficina local
+Files control office;Oficina de control de archivos
+Fiscal year;Año Fiscal
+Forced marriage;Matrimonio Forzado
+Foreign government official;Funcionario de gobierno extranjero
+Foreign information media representative;Representante de medios de comunicación extranjeros
+Foreign national;ciudadano extranjero
+Foreign state of chargeability;Estado extranjero de imputabilidad
+Foreign student;Estudiante extranjero
+foreigner;extranjero
+Freedom of Information Act;Ley de Acceso a la Información
+Freedom of movement;Libertad de circulación
+GDP;PIB
+Green Card;Tarjeta Verde
+Hemispheric ceilings;Límites hemisféricos
+Hire;Contratación
+Hiring sites;Sitios de contratación
+Human trafficking;Trata de personas
+Humanitarian admission;Admisión humanitaria
+Humanitarian parole;Permisos Humanitarios
+Humanitarian visa;Visado humanitario
+I-94 Number;Número I-94
+Identity document;Documento de identidad
+IER;OSC
+illegal;ilegal
+Immediate relative;Pariente inmediato
+Immigrant;inmigrante
+immigrate;inmigrar
+Immigration;inmigracion
+Immigration Act of 1990;Ley de Inmigración de 1990
+Immigration and Nationality Act;Ley de Inmigración y Nacionalidad
+Immigration judge;Juez de inmigración
+Immigration scams;Estafas de Inmigración
+Inadmissibility;Inadmisibilidad
+income;ingreso
+Individual;Individuo
+inflation;inflacion
+Initial approval;Aprobación inicial
+Initial denial;Denegación inicial
+Integration;Integración
+Interception;Intercepción
+Intermittent;Intermitente
+Internal migration;Migración interna
+Internally Displaced Persons;Desplazados internos
+International migration;Migración internacional
+International migration law;Derecho internacional sobre migración
+International protection;Protección internacional
+internship;pasantia
+Irregular;Irregular
+Irregular migration;Migración irregular
+job;trabajo
+Jurisdiction;Jurisdicción
+labor;mano de obra
+Labor certification;Certificación de Condición Laboral
+Labour migration;Migración laboral
+Last name;Apellido
+Lawful permanent resident;Residente Permanente Legal
+layoff;despido
+legalization;legalizacion
+Legalization dependents;Dependientes de Legalización
+Legalized aliens;Extranjeros Legalizados
+Lodging;Solicitud sellada no presentada
+Maiden name;apellido de soltera
+Mailing address;Dirección Postal
+Medical exemption;Exención médica
+Members of the family;Familiares
+Middle initial;Inicial de segundo nombre
+Migrant;migrante
+Migrant flow;Flujo migratorio
+Migrant stock;Población de migrantes
+Migrant worker;Trabajador migrante
+migrate;migrar
+Migration;migracion
+Migration cycle;Ciclo migratorio
+Migration governance;Gobernanza de la migración
+Migration health;Salud y migración
+Migration management;Gestión de la migración
+Migration profile;Perfil migratorio
+minimum;minimo
+nationality;nacionalidad
+NATO official;Funcionario de la OTAN
+Naturalization;naturalizacion
+Naturalization certificate;Certificado de naturalización
+Next friend;Amigo íntimo
+Non-discrimination;No discriminación
+Nonimmigrant;No Inmigrante
+Nonpreference category;Categoría de no preferencia
+Non-refoulement;No devolución
+Notary public;Notario Público
+Number;Número
+Occupation;Ocupación
+Ombudsman;Ombudsman
+Panama Canal Act immigrants;Inmigrantes de la Ley del Canal de Panamá
+Panel physician;Médico de Panel
+Parole;Permiso de Ingreso
+Parole in place;Libertad condicional en el lugar
+Parolee;Persona con Permiso de Permanencia Temporal
+passport;pasaporte
+Pattern;Patrón
+Pay;Pago
+payroll;nomina
+pension;pension
+Permanent resident;Límite por país
+Permanent Resident Alien;Residencia Permanente
+Permanent Resident Card;Extranjero Residente Permanente
+Permit;Permiso
+Person;Persona
+Petitioner;Solicitante
+Physical Address;Dirección Física
+Port of entry;Puerto de entrada
+practice;práctica
+Practitioner;Profesional
+Precedent decision;Decisión precedente
+Preference System;Sistema de Preferencia
+Pre-inspection;Inspección previa
+Principal Alien;Extranjero principal
+Priority Date;Fecha de Prioridad
+Pro Bono Program;Programa Pro Bono
+Processing Times;Tiempos de Procesamiento
+Prosecutorial discretion;Discreción para procesar
+Provisional waiver;Exención provisional
+Qualified Representative;Representante Cualificado
+quota;cuota
+Receipt Number;Número de recibo
+recession;recesion
+Recognized Organization;Organización Reconocida
+Record of proceedings;Acta de las actuaciones
+recruitment;reclutamiento
+Re-entry Permit;Permiso de Reingreso
+Refugee;refugiado
+Refugee Travel Document;Documento de Viaje de Refugiado
+Refugee-parolee;Refugiado en libertad condicional
+Registry date;Fecha de registro
+Regular migration;Migración regular
+Regulations;Regulaciones
+Reintegration;Reintegración
+Reject;Rechazar
+Remand;Remand
+Remittances;Remesas
+Removal;Devolución
+Remuneration;remuneracion
+Request for Evidence;Solicitud de Evidencia
+required documents;documentos requisito
+Resettlement;Reasentamiento
+Resident alien;Extranjero residente
+Responsible Officer;Oficial Responsable
+Returning resident;Residente que regresa
+Safe haven;Refugio seguro
+salary;sueldo
+Separated children;Menores separados
+Service centers;Centros de Servicio
+smuggler;traficante
+smuggling;contrabando
+Smuggling of migrants;Trata de personas
+Social remittances;Remesas sociales
+Sovereignty;Soberanía
+Special agricultural workers;Trabajadores agrícolas especiales
+Special immigrants;Inmigrantes especiales
+Special naturalization provisions;Disposiciones especiales para la naturalización
+Special Situations;Situaciones Especiales
+Special Student Relief;Ayuda para Estudiantes Especiales
+Specialty occupation;Ocupación de especialidad
+Sponsor;Patrocinador
+Sporadic;Esporádico
+Stateless;Apátrida
+Stateless person;persona Apátrida
+Stowaway;Polizón
+T Nonimmigrant Status;Visa de No Inmigrante T
+tax;impuesto
+Temporary Protected Status;Estatus de Protección Temporal
+Temporary resident;Residente temporal
+Temporary worker;Trabajador Temporal
+Tentative Nonconfirmation;No Confirmación Tentativa
+tourist;turista
+Trafficking in persons;Tráfico de migrantes
+Transit Alien;Extranjero en tránsito
+Transit without visa;Tránsito sin visado
+Travel Documents;Documentos de Viajes
+U Nonimmigrant Status;Visa de No Inmigrante U
+U.S. Citizenship and Immigration Services;Servicio de Ciudadanía e Inmigración de Estados Unidos
+U.S. Customs and Border Protection;Oficina de Aduanas y Protección Fronteriza
+U.S. Immigration and Customs Enforcement;Servicio de Inmigración y Control de Aduanas
+U.S. territories;Territorios de EE. UU.
+Unaccompanied children;Menores no acompañados
+unauthorized;no autorizado
+undocumented;indocumentado
+unemployment;desempleo
+union;sindicato
+United States;Estados Unidos
+unskilled;no capacitado
+USCIS;USCIS
+USCIS Immigrant Fee;Tarifa de Inmigrante de USCIS
+USCIS Number;Número de USCIS
+USCIS Online Account Number;Número de Cuenta en Línea de USCIS
+Usual residence;Lugar de residencia habitual
+vacancy;vacante
+Visa;visado
+Visa Bulletin;Boletín de Visas
+Visa Lottery;Lotería de Visas
+Visa Retrogression;Retroceso de Visa
+Visa Waiver Program;Programa de exención de visado
+Voluntary departure;Salida voluntaria
+Vulnerability;Vulnerabilidad
+wage;salario
+waiver;exencion
+welfare;asistencia social
+Willful misrepresentation;Declaración falsa a sabiendas
+Withdrawal;Retirada
+Xenophobia;Xenofobia
